@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="movies_name">Nama Movie</string>
+    <string name="description">Deskripsi</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="overview">Overview</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="my_name">Name: Gippy</string>
+    <string name="my_email">gippy@dicoding.com</string>
+    <string name="ic_share">Share</string>
+    <string name="about">About</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="splash_image">Splash Image</string>
+
+    <string-array name="data_name">
+        <item>Hounds of War</item>
+        <item>The GodFather</item>
+        <item>Afraid</item>
+        <item>The Crow</item>
+        <item>It Ends with Us</item>
+        <item>Speak no Evil</item>
+        <item>Beetlejuice Beetlejuice</item>
+        <item>OUTLAW</item>
+        <item>Twilight of the Warriors: Walled In</item>
+        <item>Dragonkeeper</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>After a mission goes wrong, only one of a group of mercenaries is left alive to avenge his fallen brothers. Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.</item>
+        <item>Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage. The aging patriarch of a mafia dynasty transfers control to his son.</item>
+        <item>The world seems to be coming to an end, teeming with the vestiges of a human presence. Cat is a solitary animal, but as its home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences. In the lonesome boat sailing through mystical overflowed landscapes, they navigate the challenges and dangers of adapting to this new world. A masked vigilante tries to rid Gotham of a criminal mastermind.</item>
+        <item>Soulmates Eric and Shelly are brutally murdered when the demons of her dark past catch up with them. Given the chance to save his true love by sacrificing himself, Eric sets out to seek merciless revenge on their killers, traversing the worlds of the living and the dead to put the wrong things right.</item>
+        <item>When a woman\'s first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended, and she realizes she must learn to rely on her own strength to make an impossible choice for her future..</item>
+        <item>When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.</item>
+        <item>After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia\'s life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.</item>
+        <item>At the age of nine, Rebeca is sold by her grandmother to the bookseller who ran Rocinha. Disputed by bicheiros and drug dealers, the community is going through changes in power. Rebeca becomes the wife of the chief drug dealer and, with the death of her partner, his successor. The electrifying trajectory of crime, violence, drugs and love of a female drug kingpin in Rocinha, Rio de Janeiro in the 1980s.</item>
+        <item>In 1980s Hong Kong, troubled youth Chan Lok-kwun accidentally enters the notorious Kowloon Walled City. Lok-kwun, a refugee from the mainland, struggles to survive by participating in underground fighting rings. He seeks to buy a fake ID to improve his life but is betrayed by Mr. Big, a local crime syndicate boss. In a desperate move, Lok-kwun steals drugs from Mr. Big and flees to the Walled City, where he encounters Cyclone, the local crime lord who rules the area with a mix of authority and compassion.</item>
+        <item>Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping with ancient dragon Long Danzi. Dragons had been banished from the kingdom. Ping, an orphan, finds one of the last remaining dragon eggs. Palace guards force Ping to run away in order to return the dragon egg to the ocean and save all dragons from extinction. Ping discovers that she is a true Dragonkeeper. Two detectives hunt a serial killer who uses the seven deadly sins as motives.</item>
+    </string-array>
+
+    <string-array name="data_image_url">
+        <item>https://image.tmdb.org/t/p/w500//lRBT73EWsiQPuqK3YS3BnBW0Zwi.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//dTaqzXA1auKRUjHPQjR3u0W7Gfl.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//sjC29cgm4qZAnpOJQbYKCxDCcra.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//Asg2UUwipAdE87MxtJy7SQo08XI.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//zAqBIeO71BFL7bAtP5TFzVjVamy.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//9R9Za5kybgl5AhuCNoK3gngaBdG.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//A1dZ6faTjg0e6HYftBmEKujuXGQ.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//jfC2xCBD8a5QJNd5yY3q23E8i7U.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//9juRmk8QjcsUcbrevVu5t8VZy5G.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500//ggZGnJLzO3BTu7ysuuIzou3Oex5.jpg</item>
+    </string-array>
+</resources>
